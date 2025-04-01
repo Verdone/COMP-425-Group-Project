@@ -23,6 +23,10 @@ training and testing this two-phase algorithm on the aforementioned datasets.
 
 For the data on model weights, please see the Google Drive link [available here](https://drive.google.com/file/d/103jRrNEmkUrTI-o3bK-xRuL1YJW_rBjK/view?usp=sharing​).
 
+## YOLOv9-c model paired with EasyOCR
+
+To view the source code for the YOLO OCR model, see the Google Drive link [available here](https://drive.google.com/file/d/1-U6rhLxYVgWVjGZ3MGcMZ3wv8I9R4YrU/view?usp=drive_link).
+
 ## Research Paper
 
 The final draft of this project's report will be uploaded to the repostiory. The draft is currently under review by the project's lab demonstrator.
