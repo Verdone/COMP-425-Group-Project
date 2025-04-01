@@ -14,7 +14,7 @@ training and testing this two-phase algorithm on the aforementioned datasets.
 | Name               | Student ID | Email                      | Program Name                |
 | ------------------ | ---------- | -------------------------- | --------------------------- |
 | Philippe Lizotte   | 40261140   | p_lizot@live.concordia.ca  | Year 3 COMP (Undergrad) |
-| Marmike Patel      | 40201462   | p_marmik@live.concordia.ca | Year 3 COMP (Undergrad) |
+| Marmik Patel      | 40201462   | p_marmik@live.concordia.ca | Year 3 COMP (Undergrad) |
 | Phuc Thien Tran    | 40017354   | phucthientran@gmail.com    | Year 3 COMP (Undergrad) |
 | Giuliano Verdone   | 40252190   | g_verdon@live.concordia.ca | Year 3 SOEN (Undergrad) |
 
