@@ -23,6 +23,10 @@ training and testing this two-phase algorithm on the aforementioned datasets.
 
 For the data on model weights, please see the Google Drive link [available here](https://drive.google.com/file/d/103jRrNEmkUrTI-o3bK-xRuL1YJW_rBjK/view?usp=sharing​).
 
+## Research Paper
+
+The final draft of this project's report will be uploaded to the repostiory. The draft is currently under review by the project's lab demonstrator.
+
 # Acknowledgement
 
 The authors wish to acknowledge Dr. Yaser Esmaeili Salehani and Zahra Ebrahimi from Concordia University’s Department of Computer Science and Software Engineering (CSSE) for their guidance throughout this research project. It was conducted as a part of coursework from COMP 425/6341 - Computer Vision, for the Winter 2025 semester.
